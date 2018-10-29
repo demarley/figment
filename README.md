@@ -28,4 +28,4 @@ There may be unintended incompatibilities._
 
 Please post an issue or submit a PR.
 
-_The image represents Figment the dragon, from Disney's EPCOT Imagination Land._
+_The image represents Figment the dragon, from [Disney's EPCOT Imagination Land](https://disneyworld.disney.go.com/attractions/epcot/journey-into-imagination-with-figment/)._
