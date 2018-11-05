@@ -46,11 +46,29 @@ Here is a table with a brief description of each notebook contained in the repos
 
 Notebook | About
 -------- | -----
-python/0-housing_prices.ipynb | Very basic and simple approach using one variable.
-python/1-housing_prices.ipynb | Basic multivariate / ML techniques (including BDT with `XGBoost`)
-python/2-housing_prices.ipynb | Basic deep learning approach with `keras+tensorflow`
-python/3-housing_prices.ipynb | Basic deep learning approach with `pytorch`
-julia/housing_prices.ipynb    | Learning `Julia` with basic deep learning approach with `Flux`
+`python/0-housing_prices.ipynb` | Very basic and simple approach using one variable.
+`python/1-housing_prices.ipynb` | Basic multivariate / ML techniques (including BDT with `XGBoost`)
+`python/2-housing_prices.ipynb` | Basic deep learning approach with `keras+tensorflow`
+`python/3-housing_prices.ipynb` | Basic deep learning approach with `pytorch`
+`julia/housing_prices.ipynb`    | Learning `Julia` with basic deep learning approach with `Flux`
+
+# Misc.
+
+Some references for performing the work in this repository:
+
+- Python
+    - [keras](https://keras.io/)
+    - [tensorflow](https://www.tensorflow.org/)
+    - [pytorch](https://pytorch.org/)
+- Julia
+    - [JuliaLang](https://julialang.org/)
+    - [Flux](http://fluxml.ai/)
+- Remote Work
+    - [Google Colab](https://colab.research.google.com/)
+    - [JuliaBox](https://juliabox.com/)
+- Technical
+    - [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
+    - [Julia Tutorials](https://github.com/JuliaComputing/JuliaBoxTutorials)
 
 # Questions, Comments, and Concerns
 
