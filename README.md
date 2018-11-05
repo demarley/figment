@@ -7,7 +7,7 @@ Collection of projects for data science, attempts at kaggle competitions, and le
 ## Getting Started
 
 In the different directories, 
-I have Jupyter notebooks that are written in the respective languages.
+I have Jupyter notebooks that are written in the respective languages for each project.
 This is structured so that I can organize different notebooks and test
 the relevant libraries and techniques.
 
@@ -16,10 +16,10 @@ but I will try to do that to have a nice comparison._
 
 ### Python
 
-The `python/` notebooks are designed to work on [Google Colab](https://colab.research.google.com/).  
+The `*/python/` notebooks are designed to work on [Google Colab](https://colab.research.google.com/).  
 Where possible, I'm trying to use Python3 because I have little experience with it compared to Python2.
 
-My previous experience with Python has mostly involved physics analysis 
+My previous experience with Python has mostly involved high-energy physics analysis 
 (software frameworks, plotting, and neural networks).
 Here I am developing some solutions to kaggle competitions and trying out new libraries and techniques.
 
@@ -27,17 +27,17 @@ Here I am developing some solutions to kaggle competitions and trying out new li
 
 I don't have any prior experience with [Julia](https://julialang.org/), 
 so this is also a way for me to experiment with the language and develop some computer science skills.
-The `julia/` notebooks are designed to work on [JuliaBox](https://juliabox.com/).
+The `*/julia/` notebooks are designed to work on [JuliaBox](https://juliabox.com/).
 
-_NB: At the moment it seems JuliaBox supports Julia 0.6 while I have Julia 1.0 downloaded to my local machine.
-There may be unintended incompatibilities._
+_NB: There may be unintended incompatibilities based on what packages JuliaBox
+lets you download versus what I have available locally._
 
 
 ## Projects
 
 ### Housing Prices
 
-The kaggle housing prices [challenge]()
+The kaggle housing prices [challenge](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 is being explored with a different set of notebooks in both `python` and `julia`.
 
 #### Notebooks
