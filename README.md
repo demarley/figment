@@ -52,6 +52,23 @@ Notebook | About
 `python/3-housing_prices.ipynb` | Basic deep learning approach with `pytorch`
 `julia/housing_prices.ipynb`    | Learning `Julia` with basic deep learning approach with `Flux`
 
+
+
+### Fantasy Football
+
+As a personal exercise in data science, I'm attempting to make some (basic) fantasy football
+predictions using information from [NFLGame]().
+
+#### Notebooks
+
+Here is a table with a brief description of each notebook contained in the repository.
+
+Notebook | About
+-------- | -----
+`python/0-fantasy-football.ipynb` | Very basic and simple approach for making predictions for one player.
+
+
+
 # Misc.
 
 Some references for performing the work in this repository:
