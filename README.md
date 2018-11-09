@@ -57,7 +57,7 @@ Notebook | About
 ### Fantasy Football
 
 As a personal exercise in data science, I'm attempting to make some (basic) fantasy football
-predictions using information from [NFLGame]().
+predictions using information from [nflgame](https://github.com/derek-adair/nflgame).
 
 #### Notebooks
 
@@ -65,7 +65,8 @@ Here is a table with a brief description of each notebook contained in the repos
 
 Notebook | About
 -------- | -----
-`python/0-fantasy-football.ipynb` | Very basic and simple approach for making predictions for one player.
+`python/0-fantasy-football.ipynb` | Read NFL data from `nflgame` and store relevant information in `sql` database.
+`python/1-fantasy-football.ipynb` | Very basic and simple approach for making predictions for one player.
 
 
 
