@@ -67,6 +67,7 @@ Notebook | About
 -------- | -----
 `python/0-fantasy-football.ipynb` | Read NFL data from `nflgame` and store relevant information in `sql` database.
 `python/1-fantasy-football.ipynb` | Very basic and simple approach for making predictions for one player.
+`python/2-fantasy-football.ipynb` | Preliminary attempt to use play-level information for making game-level predictions.
 
 
 
