@@ -32,6 +32,17 @@ The `*/julia/` notebooks are designed to work on [JuliaBox](https://juliabox.com
 _NB: There may be unintended incompatibilities based on what packages JuliaBox
 lets you download versus what I have available locally._
 
+### R
+
+I also don't have any prior experience with R,
+so this is another way for me to practice with this language.  
+The `*/r/` notebooks are only tested locally, for now, 
+but I will be investigating open source platforms in the future 
+(Google Colab, Azure Notebooks, etc.).
+
+_NB: I downloaded R onto my macbook from [here](https://cran.r-project.org/bin/macosx/), version 3.5.1.
+And I used [this](https://irkernel.github.io/installation/) reference for installing a jupyter kernel._
+
 
 ## Projects
 
@@ -58,6 +69,8 @@ Notebook | About
 
 As a personal exercise in data science, I'm attempting to make some (basic) fantasy football
 predictions using information from [nflgame](https://github.com/derek-adair/nflgame).
+
+_For now this is only a python project so I can practice SQL (via `sqlite`)._
 
 #### Notebooks
 
