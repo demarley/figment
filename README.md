@@ -84,6 +84,24 @@ Notebook | About
 
 
 
+### Personalized Medicine
+
+To practice with natural language processing and using R, this project will explore the Kaggle challenge
+[Personalized Medicine: Redefining Cancer Treatment](https://www.kaggle.com/c/msk-redefining-cancer-treatment).  
+_NB: The training dataset was too large for GitHub, and will need to be downloaded separately from the Kaggle site._
+
+
+#### Notebooks
+
+Here is a table with a brief description of each notebook contained in the repository.
+
+Notebook | About
+-------- | -----
+`r/0-medicine.ipynb` | Exploring the dataset and getting familiar with R.
+
+
+
+
 # Misc.
 
 Some references for performing the work in this repository:
@@ -95,6 +113,9 @@ Some references for performing the work in this repository:
 - Julia
     - [JuliaLang](https://julialang.org/)
     - [Flux](http://fluxml.ai/)
+- R
+    - [R language](https://cran.r-project.org/)
+    - [EDA example](https://www.kaggle.com/headsortails/personalised-medicine-eda-with-tidy-r)
 - Remote Work
     - [Google Colab](https://colab.research.google.com/)
     - [JuliaBox](https://juliabox.com/)
